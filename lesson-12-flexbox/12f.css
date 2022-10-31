@@ -1,0 +1,39 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgb(105, 43, 105);
+  color: white;
+  font-family: Roboto, sans-serif;
+}
+
+.left-header {
+  padding-left: 15px;
+  width: 100px;
+  font-weight: bold;
+}
+
+.middle-header {
+  flex: 1;
+}
+
+.search-box {
+  width: 100%;
+  max-width: 350px;
+  padding: 6px 14px;
+  border-radius: 14px;
+  border: none;
+}
+
+.right-header {
+  width: 100px;
+}
+
+.download-btn {
+  background-color: rgb(105, 43, 105);
+  border: 1px solid white;
+  color: white;
+  padding: 7px 14px;
+  border-radius: 2px;
+}

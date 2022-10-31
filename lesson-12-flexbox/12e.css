@@ -1,0 +1,23 @@
+.border-around {
+  border: 1px solid gray;
+  width: 220px;
+  border-radius: 5px;
+}
+
+.home, .notifications, .messages {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 8px 10px;
+  font-family: Roboto, sans-serif;
+}
+
+.button {
+  border: none;
+  color: white;
+  background-color: rgb(48, 120, 255);
+  padding: 4px 10px;
+  font-weight: bold;
+  border-radius: 12px;
+  cursor: pointer;
+}
