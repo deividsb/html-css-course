@@ -1,0 +1,23 @@
+div {
+  text-align: center;
+}
+
+.google {
+  width: 300px;
+}
+
+.search {
+  width: 400px;
+  border: none;
+  box-shadow: 0 0 5px gray;
+  padding: 10px 15px;
+  border-radius: 25px;
+}
+
+button {
+  background-color: rgb(230, 230, 230);
+  border: none;
+  padding: 10px 20px;
+  margin: 25px 5px 0 5px;
+  cursor: pointer;
+}

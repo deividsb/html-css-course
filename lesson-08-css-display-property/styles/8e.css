@@ -1,0 +1,39 @@
+p,
+input,
+button {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.request {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.pickup,
+.destination {
+  display: block;
+  margin-bottom: 10px;
+  width: 300px;
+  background-color: rgb(228, 228, 228);
+  border: none;
+  padding: 14px;
+  border-radius: 2px;
+}
+
+.button-request,
+.button-schedule {
+  display: inline-block;
+  width: 140px;
+  padding: 10px 5px;
+  border: none;
+  cursor: pointer;
+  background-color: rgb(228, 228, 228);
+  margin-top: 20px;
+}
+
+.button-request {
+  background-color: black;
+  color: white;
+  margin-right: 10px;
+}

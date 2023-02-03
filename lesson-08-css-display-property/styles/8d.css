@@ -1,0 +1,26 @@
+.name,
+.email {
+  border-width: 1px;
+  border-style: solid;
+  border-color: lightgray;
+  border-radius: 4px;
+  width: 100px;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.email {
+  display: block;
+  width: 221px;
+}
+
+button {
+  width: 238px;
+  border: none;
+  background-color: rgb(0, 153, 255);
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}

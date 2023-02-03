@@ -1,0 +1,31 @@
+p,
+button {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+  border-width: 1px;
+  border-color: lightgray;
+  width: 300px;
+  border-style: solid;
+}
+
+p {
+  margin: 20px;
+}
+
+.button {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  border-color: gray;
+  border-style: solid;
+  border-width: 1px;
+  cursor: pointer;
+}
+
+.button-1 {
+  border-color: gray;
+  border-style: solid;
+  border-width: 1px;
+  cursor: pointer;
+}
