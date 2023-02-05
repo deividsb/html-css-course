@@ -1,0 +1,12 @@
+.div-grid {
+   display: grid;
+   grid-template-columns: 200px 75px;
+}
+
+.div-blue {
+   background-color: lightblue;
+}
+
+.div-pink {
+   background-color: lightpink;
+}
