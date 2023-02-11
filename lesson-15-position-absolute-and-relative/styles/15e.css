@@ -1,0 +1,18 @@
+.item-container {
+   position: relative;
+   display: inline-block;
+}
+
+.item-image {
+   width: 300px;
+}
+
+.discount {
+   position: absolute;
+   top: 10px;
+   right: 0;
+   background-color: black;
+   color: white;
+   padding: 8px 12px;
+   font-family: Arial, Helvetica, sans-serif;
+}

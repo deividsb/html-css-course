@@ -1,0 +1,34 @@
+body {
+   height: 3000px;
+}
+
+.sticky-div {
+   position: fixed;
+   bottom: 20px;
+   right: 20px;
+   width: 320px;
+   height: 180px;
+   background-color: lightgray;
+}
+
+.button {
+   position: absolute;
+   top: -12px;
+   left: -12px;
+   background-color: black;
+   color: white;
+   padding: 7px 10px;
+   border-radius: 50%;
+   border: none;
+   cursor: pointer;
+}
+
+.timestamp {
+   position: absolute;
+   bottom: 8px;
+   right: 8px;
+   background-color: black;
+   color: white;
+   padding: 4px 6px;
+   font-family: Arial;
+}
